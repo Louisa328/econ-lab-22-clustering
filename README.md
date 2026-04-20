@@ -2,7 +2,7 @@
 
 > **Course:** ECON 5200 · Causal Machine Learning & Applied Analytics  
 > **Institution:** Northeastern University  
-> **Author:** Yun Lou  
+> **Author:** Yun Deng  
 
 ---
 
