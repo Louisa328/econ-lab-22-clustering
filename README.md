@@ -1,7 +1,6 @@
 # Lab 22: Unsupervised Learning — Clustering & Dimensionality Reduction
 
-> **Course:** ECON 5200 · Causal Machine Learning & Applied Analytics  
-> **Institution:** Northeastern University  
+> **Course:** ECON 5200 Data Analytics  
 > **Author:** Yun Deng  
 
 ---
