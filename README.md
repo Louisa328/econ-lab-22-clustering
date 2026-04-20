@@ -15,11 +15,9 @@ Diagnose and repair a production-broken K-Means pipeline, then apply corrected u
 
 ```
 lab-22-clustering/
-├── notebooks/
-│   └── lab_ch22_diagnostic_1.ipynb   # Main lab notebook
+├── lab_ch22_diagnostic_1.ipynb 
 ├── src/
-│   └── clustering_utils.py           # Reusable pipeline module
-├── figures/                          # Generated visualizations
+│   └── clustering_utils.py  
 └── README.md
 ```
 
