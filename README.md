@@ -105,18 +105,3 @@ Cross-tabulation showed strong agreement between the two methods — the majorit
 `Python` · `scikit-learn` · `umap-learn` · `wbgapi` · `pandas` · `matplotlib` · `scipy`
 
 ---
-
-## How to Run
-
-```bash
-# Clone and install
-git clone https://github.com/Louisa328/ECON5200.git
-cd ECON5200
-pip install -r requirements.txt
-
-# Run self-test on clustering module
-python src/clustering_utils.py
-
-# Open notebook
-jupyter notebook notebooks/lab_ch22_diagnostic_1.ipynb
-```
